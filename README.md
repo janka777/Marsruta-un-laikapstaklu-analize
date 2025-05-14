@@ -3,7 +3,7 @@
 
 ### Situācijas apraksts
 
-Mūsdienās cilvēki ir ļoti saistīti ar tehnoloģijām un bez tā nevar dzīvot. Bet ar tām jāmāk pareizi rīkoties, lai ietaupītu savu dārgo laiku. Rīgā ir viena ļoti liela problēma kas nav sastopama citās Latvijas pilsētās. Lai nestāvētu tik sastrēgumstundās , ātrāk ir braukt ar motociklu , vai arī sabiedriskais ir laba alternatīva. Bet ar motociklu lietus laikā braukt ir nepatīkami un bīstami.
+Mūsdienās cilvēki ir ļoti saistīti ar tehnoloģijām un bez tā nevar dzīvot. Bet ar tām jāmāk pareizi rīkoties, lai ietaupītu savu dārgo laiku. Rīgā ir viena ļoti liela problēma kas nav sastopama citās Latvijas pilsētās-sastrēgumi. Lai nestāvētu tik ilgi sastrēgumstundās , ātrāk ir braukt ar motociklu , vai arī sabiedriskais transports ir laba alternatīva. Bet ar motociklu lietus laikā braukt ir nepatīkami un bīstami, tāpēc katru rītu cilvēks pavada laiku , lai paskatītos un parbaudītu laikapstākļus un maršrutu , kuru izmantot.
 
 ### Darba Uzdevums:
 
@@ -15,10 +15,10 @@ Mūsdienās cilvēki ir ļoti saistīti ar tehnoloģijām un bez tā nevar dzīv
 
 4. Ja sola lietu , tad motociklists brauks ar savu motociklu un kods arī piedāvā laiku un maršrutu , tikai ar motociklu šoreiz.
 
-5. Nokrišņu daudzums, kurā cilvēks brauks jau ar autobusu ir lielāks par 50%
+5. Nokrišņu daudzums, kurā cilvēks brauks jau brauks ar autobusu ir kad nokrišņu daudzums būs lielāks par 50%
 
 ### Darba Aktualitāte:
-Šis kods ietaupīs laiku daudziem motociklistiem , jo kods uzreiz ar vienu klikšķi iesaka ar ko un pa kādu maršrutu braukt. Kods to izdarītu daudz atrāk nekā cilvēks manuāli, jo cilvēkam būs jāiet uzreiz divos resursos.
+Šis kods ietaupīs laiku daudziem motociklistiem , jo kods uzreiz ar vienu klikšķi iesaka ar ko un pa kādu maršrutu braukt. Kods to izdarītu daudz atrāk nekā cilvēks manuāli, jo cilvēkam būtu jāiet uzreiz divos resursos.
 
 ## Izmantotās python bibliotēkas:
 Mēs izmantojam četras dažādas bibliotēkas (**requests, beautifulSoup, webbrowser un datetime**)
