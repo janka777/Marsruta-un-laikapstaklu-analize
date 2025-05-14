@@ -13,7 +13,7 @@ Mūsdienās cilvēki ir ļoti saistīti ar tehnoloģijām un bez tā nevar dzīv
 
 3. Ja līst lietus , kods piedāvā braukt ar sabiedrisko transportu- uzreiz piedāvā maršrutu un patērēto laiku.
 
-4. Ja sola lietu , tad motociklists brauks ar savu motociklu un kods arī piedāvā laiku un maršrutu , tikai ar motociklu šoreiz.
+4. Ja nokrišņu daudzums ir mazāks par 50% , tad motociklists brauks ar savu motociklu un kods arī piedāvā laiku un maršrutu , tikai ar motociklu šoreiz.
 
 5. Nokrišņu daudzums, kurā cilvēks brauks jau brauks ar autobusu ir kad nokrišņu daudzums būs lielāks par 50%
 
